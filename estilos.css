@@ -1,0 +1,17 @@
+.p{
+  background : linear-gradient (#D5f5e3, #48C9B0);
+  width:400px; height: auto;
+  }
+  .inicio{
+    background: linear-gradient(to bottom, #00ff00 0%, #00ccff 100%);
+    width:auto; height: 200px;
+    border:2em : black;
+
+  }
+     .cajalogo{
+       float: left;
+       background-color: red;
+       margin-top: 1em;
+       margin-left: 1em;
+       width:400px; height: 170px;
+     }
